@@ -11,9 +11,22 @@ Headless CMS to Manage Multi-Platform Content
 
 This is a demo app to show how you can integrate Dialogue Wise into your [Next.js](https://nextjs.org/) apps.
 
-To get started 
+To install the package: 
 
 ```
 npm i dialogue-wise
 ```
+
+To run this repo, first run
+```
+yarn install
+```
+
+and then
+
+```
+yarn dev
+```
+
+to launch the application.
 
