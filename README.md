@@ -30,3 +30,4 @@ yarn dev
 
 to launch the application.
 
+Please have a look at the [documentation](https://docs.dialoguewise.com/) for more details.
